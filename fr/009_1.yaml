@@ -1,0 +1,18 @@
+---
+my:
+  cake:
+    composition:
+      dough:
+      - des œufs
+      - sugars
+      - farine gty
+      cream:
+      - du sucre
+      - Le Lait df
+    dough:
+    - des œufs
+    - du sucre
+    - farine
+    cream:
+    - du sucre
+    - Le Lait
